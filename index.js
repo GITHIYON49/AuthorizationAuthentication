@@ -11,7 +11,7 @@ app.use(express.json());
 app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
 
-const PORT = process.env.BACKEND_URL || 4000;
+const PORT = process.env.PORT || 4000;
 // app.get("/", function (request, response) {
 //   response.send("🙋‍♂️, 🌏 🎊✨🤩");
 // });
