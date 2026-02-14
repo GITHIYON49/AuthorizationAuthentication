@@ -3,7 +3,7 @@
 
 ## Register API
 
-**Endpoint:** `http://localhost:5000/api/auth/register`
+**Endpoint:** `https://authorizationauthentication.onrender.com/api/auth/register`
 
 **Description:** This API is used for user registration.
 
@@ -15,7 +15,7 @@
 
 ## Login API
 
-**Endpoint:** `http://localhost:5000/api/auth/login`
+**Endpoint:** `https://authorizationauthentication.onrender.com/api/auth/login`
 
 **Description:** This API is used for user login.
 
@@ -29,7 +29,7 @@
 
 ## User Information API
 
-**Endpoint:** `http://localhost:5000/api/users/me`
+**Endpoint:** `https://authorizationauthentication.onrender.com/api/users/me`
 
 **Description:** This API is used to retrieve user information.
 
